@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\client.o
+./release\student.o
+./release\cmainwindow.o
+./release\myscene.o
+./release\myview.o
+./release\moc_client.o
+./release\moc_student.o
+./release\moc_cmainwindow.o
+./release\moc_myscene.o
+./release\moc_myview.o
+./release\qrc_Images.o
+);

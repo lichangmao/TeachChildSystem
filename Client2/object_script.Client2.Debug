@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\client.o
+./debug\student.o
+./debug\cmainwindow.o
+./debug\myscene.o
+./debug\myview.o
+./debug\moc_client.o
+./debug\moc_student.o
+./debug\moc_cmainwindow.o
+./debug\moc_myscene.o
+./debug\moc_myview.o
+./debug\qrc_Images.o
+);
