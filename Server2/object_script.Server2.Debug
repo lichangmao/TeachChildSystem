@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\server.o
+./debug\commwithclient.o
+./debug\student.o
+./debug\myscene.o
+./debug\myview.o
+./debug\mainwindow.o
+./debug\moc_server.o
+./debug\moc_commwithclient.o
+./debug\moc_student.o
+./debug\moc_myscene.o
+./debug\moc_myview.o
+./debug\moc_mainwindow.o
+);

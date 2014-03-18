@@ -1,0 +1,15 @@
+INPUT(
+./release\main.o
+./release\server.o
+./release\commwithclient.o
+./release\student.o
+./release\myscene.o
+./release\myview.o
+./release\mainwindow.o
+./release\moc_server.o
+./release\moc_commwithclient.o
+./release\moc_student.o
+./release\moc_myscene.o
+./release\moc_myview.o
+./release\moc_mainwindow.o
+);
